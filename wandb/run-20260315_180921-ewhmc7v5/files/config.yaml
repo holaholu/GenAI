@@ -1,0 +1,67 @@
+_wandb:
+    value:
+        cli_version: 0.25.1
+        e:
+            gxigvahmpqrgq72os01z3lhpp0u1satx:
+                apple:
+                    ecpuCores: 4
+                    gpuCores: 8
+                    memoryGb: 16
+                    name: Apple M1
+                    pcpuCores: 4
+                    ramTotalBytes: "17179869184"
+                    swapTotalBytes: "8589934592"
+                codePath: weightsandbiases.ipynb
+                codePathLocal: weightsandbiases.ipynb
+                cpu_count: 8
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "1995218165760"
+                        used: "972296003584"
+                email: winningmaniac@gmail.com
+                executable: /Users/olaoluadisa/Documents/WEBDEV1/webdev/code files/codefiles/GenAI_Proto1/genai1_venv/bin/python
+                git:
+                    commit: 95868d01e8cf280a5f7e1a6e2e5df653940f4c8c
+                    remote: https://github.com/holaholu/GenAI.git
+                host: Olaolus-MacBook-Pro.local
+                memory:
+                    total: "17179869184"
+                os: macOS-15.1.1-arm64-arm-64bit-Mach-O
+                program: weightsandbiases.ipynb
+                python: CPython 3.13.3
+                root: /Users/olaoluadisa/Documents/WEBDEV1/webdev/code files/codefiles/genai
+                startedAt: "2026-03-15T23:09:21.530974Z"
+                writerId: gxigvahmpqrgq72os01z3lhpp0u1satx
+        m: []
+        python_version: 3.13.3
+        t:
+            "1":
+                - 1
+                - 41
+            "2":
+                - 1
+                - 41
+            "3":
+                - 2
+                - 16
+            "4": 3.13.3
+            "5": 0.25.1
+            "8":
+                - 1
+            "9":
+                "1": dlai_01
+            "12": 0.25.1
+            "13": darwin-arm64
+batch_size:
+    value: 128
+dropout:
+    value: 0.5
+epochs:
+    value: 2
+lr:
+    value: 0.0001
+slice_size:
+    value: 10000
+valid_pct:
+    value: 0.2

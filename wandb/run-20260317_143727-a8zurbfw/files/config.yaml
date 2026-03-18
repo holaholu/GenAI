@@ -1,0 +1,52 @@
+_wandb:
+    value:
+        cli_version: 0.25.1
+        e:
+            g8369dp8jrzef9wnx74f2dh1j5h62vvy:
+                apple:
+                    ecpuCores: 4
+                    gpuCores: 8
+                    memoryGb: 16
+                    name: Apple M1
+                    pcpuCores: 4
+                    ramTotalBytes: "17179869184"
+                    swapTotalBytes: "10737418240"
+                codePath: llm_eval_starter.ipynb
+                codePathLocal: llm_eval_starter.ipynb
+                cpu_count: 8
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "1995218165760"
+                        used: "974915141632"
+                email: winningmaniac@gmail.com
+                executable: /Users/olaoluadisa/Documents/WEBDEV1/webdev/code files/codefiles/GenAI_Proto1/genai1_venv/bin/python
+                git:
+                    commit: 95868d01e8cf280a5f7e1a6e2e5df653940f4c8c
+                    remote: https://github.com/holaholu/GenAI.git
+                host: Olaolus-MacBook-Pro.local
+                memory:
+                    total: "17179869184"
+                os: macOS-15.1.1-arm64-arm-64bit-Mach-O
+                program: llm_eval_starter.ipynb
+                python: CPython 3.13.3
+                root: /Users/olaoluadisa/Documents/WEBDEV1/webdev/code files/codefiles/genai
+                startedAt: "2026-03-17T19:37:27.471134Z"
+                writerId: g8369dp8jrzef9wnx74f2dh1j5h62vvy
+        m: []
+        python_version: 3.13.3
+        t:
+            "1":
+                - 95
+            "2":
+                - 95
+            "3":
+                - 2
+            "4": 3.13.3
+            "5": 0.25.1
+            "8":
+                - 1
+            "9":
+                "1": dlai_04
+            "12": 0.25.1
+            "13": darwin-arm64

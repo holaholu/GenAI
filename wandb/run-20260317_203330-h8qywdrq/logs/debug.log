@@ -1,0 +1,38 @@
+2026-03-17 20:33:30,632 INFO    MainThread:98088 [wandb_init.py:setup_run_log_directory():717] Logging user logs to /Users/olaoluadisa/Documents/WEBDEV1/webdev/code files/codefiles/genai/wandb/run-20260317_203330-h8qywdrq/logs/debug.log
+2026-03-17 20:33:30,632 INFO    MainThread:98088 [wandb_init.py:setup_run_log_directory():718] Logging internal logs to /Users/olaoluadisa/Documents/WEBDEV1/webdev/code files/codefiles/genai/wandb/run-20260317_203330-h8qywdrq/logs/debug-internal.log
+2026-03-17 20:33:30,632 INFO    MainThread:98088 [wandb_init.py:monkeypatch_ipython():636] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x12730d480>
+2026-03-17 20:33:30,651 INFO    MainThread:98088 [wandb_init.py:init():844] calling init triggers
+2026-03-17 20:33:30,651 INFO    MainThread:98088 [wandb_init.py:init():849] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2026-03-17 20:33:30,652 INFO    MainThread:98088 [wandb_init.py:init():892] starting backend
+2026-03-17 20:33:30,652 INFO    MainThread:98088 [wandb_init.py:init():895] sending inform_init request
+2026-03-17 20:33:30,659 INFO    MainThread:98088 [wandb_init.py:init():903] backend started and connected
+2026-03-17 20:33:30,701 INFO    MainThread:98088 [wandb_run.py:_label_probe_notebook():1333] probe notebook
+2026-03-17 20:33:30,702 INFO    MainThread:98088 [wandb_init.py:init():973] updated telemetry
+2026-03-17 20:33:30,769 INFO    MainThread:98088 [wandb_init.py:init():997] communicating run to backend with 90.0 second timeout
+2026-03-17 20:33:31,824 INFO    MainThread:98088 [wandb_init.py:init():1042] starting run threads in backend
+2026-03-17 20:33:31,992 INFO    MainThread:98088 [wandb_run.py:_console_start():2524] atexit reg
+2026-03-17 20:33:31,992 INFO    MainThread:98088 [wandb_run.py:_redirect():2373] redirect: wrap_raw
+2026-03-17 20:33:31,992 INFO    MainThread:98088 [wandb_run.py:_redirect():2442] Wrapping output streams.
+2026-03-17 20:33:31,993 INFO    MainThread:98088 [wandb_run.py:_redirect():2465] Redirects installed.
+2026-03-17 20:33:31,993 INFO    MainThread:98088 [wandb_init.py:init():1082] run started, returning control to user process
+2026-03-17 20:33:31,995 INFO    MainThread:98088 [wandb_init.py:_post_run_cell_hook():606] [no run ID] resuming backend
+2026-03-17 20:33:31,999 INFO    MainThread:98088 [jupyter.py:save_ipynb():362] [no run ID] not saving jupyter notebook
+2026-03-17 20:33:31,999 INFO    MainThread:98088 [wandb_init.py:_pre_run_cell_hook():595] [no run ID] pausing backend
+2026-03-17 20:33:36,662 INFO    MainThread:98088 [wandb_init.py:_post_run_cell_hook():606] [no run ID] resuming backend
+2026-03-17 20:33:50,339 INFO    MainThread:98088 [jupyter.py:save_ipynb():362] [no run ID] not saving jupyter notebook
+2026-03-17 20:33:50,339 INFO    MainThread:98088 [wandb_init.py:_pre_run_cell_hook():595] [no run ID] pausing backend
+2026-03-17 20:33:54,918 INFO    MainThread:98088 [wandb_init.py:_post_run_cell_hook():606] [no run ID] resuming backend
+2026-03-17 20:36:25,787 INFO    MainThread:98088 [jupyter.py:save_ipynb():362] [no run ID] not saving jupyter notebook
+2026-03-17 20:36:25,787 INFO    MainThread:98088 [wandb_init.py:_pre_run_cell_hook():595] [no run ID] pausing backend
+2026-03-17 20:36:25,791 INFO    MainThread:98088 [wandb_init.py:_post_run_cell_hook():606] [no run ID] resuming backend
+2026-03-17 20:36:25,907 INFO    MainThread:98088 [jupyter.py:save_ipynb():362] [no run ID] not saving jupyter notebook
+2026-03-17 20:36:25,907 INFO    MainThread:98088 [wandb_init.py:_pre_run_cell_hook():595] [no run ID] pausing backend
+2026-03-17 20:36:26,281 INFO    MainThread:98088 [wandb_run.py:_finish():2291] finishing run winningmaniac-mem/dlai_llm/h8qywdrq
+2026-03-17 20:36:26,282 INFO    MainThread:98088 [jupyter.py:save_history():435] not saving jupyter history
+2026-03-17 20:36:26,282 INFO    MainThread:98088 [jupyter.py:save_ipynb():362] not saving jupyter notebook
+2026-03-17 20:36:26,282 INFO    MainThread:98088 [wandb_init.py:_jupyter_teardown():621] cleaning up jupyter logic
+2026-03-17 20:36:26,282 INFO    MainThread:98088 [wandb_run.py:_atexit_cleanup():2490] got exitcode: 0
+2026-03-17 20:36:26,282 INFO    MainThread:98088 [wandb_run.py:_restore():2472] restore
+2026-03-17 20:36:26,282 INFO    MainThread:98088 [wandb_run.py:_restore():2478] restore done
+2026-03-17 20:36:38,327 INFO    MainThread:98088 [wandb_run.py:_footer_sync_info():3868] logging synced files

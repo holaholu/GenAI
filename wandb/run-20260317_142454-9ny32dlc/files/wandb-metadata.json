@@ -1,0 +1,37 @@
+{
+  "os": "macOS-15.1.1-arm64-arm-64bit-Mach-O",
+  "python": "CPython 3.13.3",
+  "startedAt": "2026-03-17T19:24:54.664356Z",
+  "program": "llm_eval_starter.ipynb",
+  "codePath": "llm_eval_starter.ipynb",
+  "codePathLocal": "llm_eval_starter.ipynb",
+  "git": {
+    "remote": "https://github.com/holaholu/GenAI.git",
+    "commit": "95868d01e8cf280a5f7e1a6e2e5df653940f4c8c"
+  },
+  "email": "winningmaniac@gmail.com",
+  "root": "/Users/olaoluadisa/Documents/WEBDEV1/webdev/code files/codefiles/genai",
+  "host": "Olaolus-MacBook-Pro.local",
+  "executable": "/Users/olaoluadisa/Documents/WEBDEV1/webdev/code files/codefiles/GenAI_Proto1/genai1_venv/bin/python",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "1995218165760",
+      "used": "974925099008"
+    }
+  },
+  "memory": {
+    "total": "17179869184"
+  },
+  "apple": {
+    "name": "Apple M1",
+    "ecpuCores": 4,
+    "pcpuCores": 4,
+    "gpuCores": 8,
+    "memoryGb": 16,
+    "swapTotalBytes": "10737418240",
+    "ramTotalBytes": "17179869184"
+  },
+  "writerId": "lw7xqeey4wc13fs6wnhr5zoqw0k4w8bd"
+}
